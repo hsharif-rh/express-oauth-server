@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.0.1
+* Bumped dependencies to resolve security vulnerabilities issues
+
 ## 2.0.0
 * Refactor for v3.0.0 of node-oauth2-server
 
