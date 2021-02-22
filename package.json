@@ -20,6 +20,12 @@
     "name": "Nuno Sousa",
     "email": "nfs@seegno.com"
   },
+  "contributors": [
+    {
+      "name": "Hamza Sharif",
+      "url": "https://github.com/hsharif-rh"
+    }
+  ],
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "bluebird": "^3.0.5",
